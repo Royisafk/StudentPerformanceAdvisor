@@ -132,6 +132,14 @@ high_success_potential + exam_high
                     ↓
           excellent_performance
 
+
+
+
+
+
+
+
+
 5. How to Run the System
 
 Requirements
@@ -342,6 +350,14 @@ Excellent Academic Performance
 Recommendation:
 Continue your excellent study habits and pursue advanced academic goals
 
+
+
+
+
+
+
+
+
 Test Case 2
 Attendance good? no
 Assignments completed? no
@@ -360,7 +376,13 @@ Rule 14: Risk of Failure
 Conclusion: 
 Risk of Failure
 Recommendation:
-Improve attendance, study hours and assignment completion.  
+Improve attendance, study hours and assignment completion
+
+
+
+
+
+
 
 Test Case 3
 Attendance good? yes
@@ -379,6 +401,11 @@ Conclusion:
 Strong Academic Performance
 Recommendation:
 Maintain current study habits
+
+
+
+
+
 
 Test Case 4
 Attendance good? no
@@ -400,6 +427,12 @@ Well-Rounded Student
 Recommendation:
 Maintain balanced academic and practical learning
 
+
+
+
+
+
+
 Test Case 5
 Attendance good? yes
 Assignments completed? no
@@ -417,3 +450,11 @@ Conclusion:
 Average Academic Performance
 Recommendation:
 Increase study hours and participation.
+
+
+
+
+
+
+
+
