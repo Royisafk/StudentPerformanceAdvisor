@@ -17,8 +17,8 @@ assignment_complete
 assignment_incomplete
 
 iii)Study Hours
-* study_hours_high
-* study_hours_low
+study_hours_high
+study_hours_low
 
 iv)Exam Performance
 exam_high
@@ -350,14 +350,6 @@ Excellent Academic Performance
 Recommendation:
 Continue your excellent study habits and pursue advanced academic goals
 
-
-
-
-
-
-
-
-
 Test Case 2
 Attendance good? no
 Assignments completed? no
@@ -378,12 +370,6 @@ Risk of Failure
 Recommendation:
 Improve attendance, study hours and assignment completion
 
-
-
-
-
-
-
 Test Case 3
 Attendance good? yes
 Assignments completed? yes
@@ -401,11 +387,6 @@ Conclusion:
 Strong Academic Performance
 Recommendation:
 Maintain current study habits
-
-
-
-
-
 
 Test Case 4
 Attendance good? no
@@ -426,12 +407,6 @@ Conclusion:
 Well-Rounded Student
 Recommendation:
 Maintain balanced academic and practical learning
-
-
-
-
-
-
 
 Test Case 5
 Attendance good? yes
